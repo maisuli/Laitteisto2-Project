@@ -1,4 +1,4 @@
-﻿<h1>Hardware 2 Project - Group 9</h1>
+﻿# Hardware 2 Project - Group 9
 
 <h2>Installation </h2>
 
