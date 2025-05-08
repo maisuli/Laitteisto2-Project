@@ -1,6 +1,13 @@
 {
   "urls": [
-    ["test.py", "http://localhost:8000/test.py"],
+    ["main.py", "http://localhost:8000/main.py"],
+	["analysis.py", "http://localhost:8000/analysis.py"],
+	["heartrate.py", "http://localhost:8000/heartrate.py"],
+	["heartrate_sensor.py", "http://localhost:8000/heartrate_sensor.py"],
+	["menu.py", "http://localhost:8000/menu.py"],
+	["mqtt.py", "http://localhost:8000/mqtt.py"],
+	["oled_display.py", "http://localhost:8000/oled_display.py"],
+	["rotary_encoder.py", "http://localhost:8000/rotary_encoder.py"],
     ["lib/filefifo.py", "http://localhost:8000/pico-lib/filefifo.py"],	
     ["lib/fifo.py", "http://localhost:8000/pico-lib/fifo.py"],
     ["lib/piotimer.py", "http://localhost:8000/pico-lib/piotimer.py"],
