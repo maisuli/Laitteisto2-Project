@@ -1,4 +1,8 @@
-﻿# Hardware 2 Project - Group 9
+# FYI for Keijo
+
+Here is our working repository, if you wish to see the editing history or check our code out a bit further (because the version here is obviously not perfect): https://github.com/maisuli/Laitteisto2
+ 
+# Hardware 2 Project - Group 9
 
 <h2>Installation </h2>
 
